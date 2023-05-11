@@ -25,16 +25,90 @@ body {
     font-family: sans-serif;
     color: rgb(255, 125, 3);
 
-
-
 }
 
-h2 {
-    width: 700px;
+
+.h2up {
+    width: 50px;
     color: rgb(252, 252, 252);
     padding-left: 540px;
-    font-size: 29px;
-}
+    font-size: 19px;
+    /* display: inline-block; */
 }
 
+.Donatenow {
+    text-align: center;
+    font-size: 25px;
+    background-color: rgba(250, 105, 105, 0.678);
+}
+
+
 #second {}
+
+.h1mid {
+    text-align: center;
+    font-size: 36px;
+
+
+}
+
+.h2mid {
+
+    color: rgb(0, 0, 0);
+
+    font-size: 16px;
+    line-height: 1.2;
+    width: 25px;
+    height: 50px;
+    text-align: center;
+
+
+}
+
+.money1 {
+    width: 50%;
+}
+
+.money2 {
+    width: 50%;
+    left: 25%;
+}
+
+.moneyh2a {
+    padding: 20px 40px;
+    background-color: rgba(180, 171, 171, 0.37);
+    display: inline-block;
+    margin-left: 34%;
+}
+
+.moneyh2b {
+    padding: 20px 40px;
+    background-color: rgba(255, 46, 46, 0.411);
+    border: 2px solid red;
+    display: inline-block;
+
+}
+
+.moneyh2c {
+    padding: 20px 40px;
+    background-color: rgba(180, 171, 171, 0.37);
+    display: inline-block;
+}
+
+.moneyh2d {
+    padding: 20px 40px;
+    background-color: rgba(180, 171, 171, 0.37);
+    display: inline-block;
+}
+
+h4 {
+    text-align: center;
+    color: rgba(14, 13, 13, 0.562);
+}
+
+
+
+hr {
+    width: 700px;
+
+}
