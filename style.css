@@ -1,0 +1,40 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+#first {
+    background-image: url(donation2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 1000px;
+
+}
+
+.div1 {
+    text-align: center;
+    padding-top: 181px;
+    background-color: rgba(65, 65, 65, 0.575);
+    text-underline-offset: 1px;
+
+}
+
+.h1up {
+    font-size: 65px;
+    font-family: sans-serif;
+    color: rgb(255, 125, 3);
+
+
+
+}
+
+h2 {
+    width: 700px;
+    color: rgb(252, 252, 252);
+    padding-left: 540px;
+    font-size: 29px;
+}
+}
+
+#second {}
