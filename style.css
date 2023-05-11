@@ -38,8 +38,32 @@ body {
 
 .Donatenow {
     text-align: center;
-    font-size: 25px;
-    background-color: rgba(250, 105, 105, 0.678);
+    background-color: rgba(255, 34, 34, 0.842);
+    display: inline-block;
+    /* font-size: 17px; */
+    border-radius: 17px;
+    margin-left: 866px;
+    padding: 5px 9px;
+
+
+
+
+
+}
+
+.Donatenow1 {
+    text-align: center;
+    background-color: rgba(255, 34, 34, 0.842);
+    display: inline-block;
+    /* font-size: 17px; */
+    border-radius: 17px;
+    margin-left: -8x;
+    padding: 5px 9px;
+
+
+
+
+
 }
 
 
