@@ -175,7 +175,7 @@ h4 {
     padding: 5px;
 }
 
-img {
+.ii {
     height: 80px;
 }
 
@@ -183,16 +183,26 @@ img {
     margin-left: 400px;
 }
 
-/* #forth {
-    width: 100%;
-} */
+#forth {
+    display: flex;
+}
 
-.lasr1 {
-    width: 50%;
+.last1 {
+    width: 500px;
+}
 
-
+.pp {
+    font-size: 35px;
+    text-align: center;
 }
 
 .lastpic {
-    width: 50%;
+    width: 200px;
+    margin-left: 135px;
+    margin-top: 23px;
+}
+
+.jj {
+    width: 500px;
+    border-radius: 10px;
 }
