@@ -206,3 +206,16 @@ h4 {
     width: 500px;
     border-radius: 10px;
 }
+
+footer {
+    background-color: rgba(0, 0, 0, 0.87);
+    color: aliceblue;
+    height: 105px;
+    text-align: center;
+}
+
+.mm {
+    text-align: center;
+    color: rgba(255, 129, 129, 0.863);
+    font-style: inherit;
+}
